@@ -36,3 +36,5 @@ the current song that is playing in your account.
   
 ## Authors
   - Solange Ormeno
+  
+  <a href="https://imgflip.com/gif/383j7c"><img src="https://i.imgflip.com/383j7c.gif" title="made at imgflip.com"/></a>
